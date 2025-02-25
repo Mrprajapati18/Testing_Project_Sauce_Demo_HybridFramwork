@@ -39,6 +39,7 @@
  Maven 
  
  ## Screen Sort
-![Screenshot 2024-11-05 155418](https://github.com/user-attachments/assets/1fc4175b-5c32-4b16-a0be-9d2a3ff46dbf)
-![Screenshot 2024-11-05 155400](https://github.com/user-attachments/assets/160796d8-b403-42fe-8e17-102258c4c0a1)
-![Screenshot 2024-11-05 155343](https://github.com/user-attachments/assets/9650d7de-1c3b-43fa-a607-8f48cf992e08)
+
+![Screenshot 2025-02-25 181211](https://github.com/user-attachments/assets/2fbf75cd-4ceb-4b44-9fe5-ccf49a844580)
+![Screenshot 2025-02-25 181227](https://github.com/user-attachments/assets/c2b061ea-11a0-4908-956b-35be50d751b1)
+![Screenshot 2025-02-25 181107](https://github.com/user-attachments/assets/cc35dac4-7c74-4629-b396-7b1e19343723)
